@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+.buttonSend{
+    background-color: aliceblue;
+    color: royalblue;
+    font-size: medium;
+    font-weight: bolder;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 18px rgb(0, 149, 255);
+}
+
+.inputForm{
+    background-color: azure;
+    color: blue;
+
+}
+
+.colorError{
+    color: red;
+
+}
